@@ -1,25 +1,25 @@
 Project Overview -
 This project provides RESTful APIs for patient registration and fetching psychiatrist details for a given hospital.
 
-Libraries and Frameworks Used -
-Express.js: A web application framework for Node.js, used for building the RESTful APIs.
-Node.js: JavaScript runtime environment, used for executing the server-side code.
-MongoDB: NoSQL database, used for storing the data.
-Mongoose: Object Data Modeling (ODM) library for MongoDB and Node.js, used for database operations.
-
-API Endpoints - /api/patients/register
-Method - POST
-Description: Register a new patient.
-Request Body:
-{
-"name": "John Doe",
-"address": "123 Main St, Springfield, IL",
-"email": "john.doe@example.com",
-"phone": "+1234567890",
-"password": "Password123",
-"photo": "file"
-}
-
+Libraries and Frameworks Used - <br />
+Express.js: A web application framework for Node.js, used for building the RESTful APIs. <br />
+Node.js: JavaScript runtime environment, used for executing the server-side code. <br />
+MongoDB: NoSQL database, used for storing the data. <br />
+Mongoose: Object Data Modeling (ODM) library for MongoDB and Node.js, used for database operations. <br />
+<br />
+API Endpoints - /api/patients/register <br />
+Method - POST<br />
+Description: Register a new patient.<br />
+Request Body:<br />
+{<br />
+"name": "John Doe",<br />
+"address": "123 Main St, Springfield, IL",<br />
+"email": "john.doe@example.com",<br />
+"phone": "+1234567890",<br />
+"password": "Password123",<br />
+"photo": "file"<br />
+}<br />
+<br />
 API Endpoints - /api/hospitals/details
 Method - POST
 Description: Fetch all psychiatrists and patient details for a hospital.
