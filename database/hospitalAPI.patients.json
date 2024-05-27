@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "66519e0847b068fbfdb48cf0"
+  },
+  "name": "Patient One",
+  "address": "1234 Elm Street",
+  "email": "patientone@example.com",
+  "phone": "+12345678901",
+  "password": "$2a$10$JbovQAOhPxCW2hxiDt1BoO4o4J3Nv3ravzEiSErzZ2ab08.zz4wWu",
+  "photo": "base64photo",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66519e0847b068fbfdb48cf1"
+  },
+  "name": "Patient Two",
+  "address": "5678 Oak Street",
+  "email": "patienttwo@example.com",
+  "phone": "+12345678902",
+  "password": "$2a$10$JbovQAOhPxCW2hxiDt1BoO4o4J3Nv3ravzEiSErzZ2ab08.zz4wWu",
+  "photo": "base64photo",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66519e0847b068fbfdb48cf2"
+  },
+  "name": "Patient Three",
+  "address": "9101 Maple Avenue",
+  "email": "patientthree@example.com",
+  "phone": "+12345678903",
+  "password": "$2a$10$JbovQAOhPxCW2hxiDt1BoO4o4J3Nv3ravzEiSErzZ2ab08.zz4wWu",
+  "photo": "base64photo",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdc"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66519e0847b068fbfdb48cf3"
+  },
+  "name": "Patient Four",
+  "address": "1121 Birch Road",
+  "email": "patientfour@example.com",
+  "phone": "+12345678904",
+  "password": "$2a$10$JbovQAOhPxCW2hxiDt1BoO4o4J3Nv3ravzEiSErzZ2ab08.zz4wWu",
+  "photo": "base64photo",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66519e0847b068fbfdb48cf4"
+  },
+  "name": "Patient Five",
+  "address": "1415 Pine Street",
+  "email": "patientfive@example.com",
+  "phone": "+12345678905",
+  "password": "$2a$10$JbovQAOhPxCW2hxiDt1BoO4o4J3Nv3ravzEiSErzZ2ab08.zz4wWu",
+  "photo": "base64photo",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cde"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66519efc58366407ef8eb21b"
+  },
+  "name": "John Doe",
+  "address": "1234 Main St, Springfield",
+  "email": "johndoe@example.com",
+  "phone": "+12345678901",
+  "password": "$2a$10$vY9/tp0KUuNX2cIEhf8zZupYK7mVwwHM5BVXsFTkVHWOeMqvqFR02",
+  "photo": "base64encodedphoto",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66519fe858366407ef8eb21d"
+  },
+  "name": "Anirudra",
+  "address": "1234 Main St, Springfield",
+  "email": "ani@example.com",
+  "phone": "+12345678901",
+  "password": "$2a$10$Sma.Upya1RMJ06FoVslU8eha5gqXq14QSkzzO7sCBf5/FWJWXUQ.m",
+  "photo": "base64encodedphoto",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665436156523dd3d5d18f190"
+  },
+  "name": "Anirudra",
+  "address": "1234 Main St, Springfield",
+  "email": "ani@example.com",
+  "phone": "+12345678901",
+  "password": "$2a$10$L12fmWClPBdXVG/03M9FEO6OLBYSLURnSb3mqkSANjc2rXg17kITi",
+  "photo": "base64encodedphoto",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdb"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654369f6523dd3d5d18f192"
+  },
+  "name": "Anirudra",
+  "address": "1234 Main St, Springfield",
+  "email": "ani@example.com",
+  "phone": "+12345678901",
+  "password": "$2a$10$t8xBNod.RWvNC/kOH8R1v.paPJX.zFN12SikVEb/z47pFzsg9Vngu",
+  "photo": "base64encodedphoto",
+  "psychiatrist": {
+    "$oid": "66519e0847b068fbfdb48cdb"
+  },
+  "__v": 0
+}]
